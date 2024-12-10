@@ -1,0 +1,6 @@
+@import url("reset.css"); /* Connection reset.css */
+
+/* The main font for all headings and links */
+html,h1,h2,h3,h4,h5,h6,a{
+    font-family: "Raleway";
+}
